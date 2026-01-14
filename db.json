@@ -1,3 +1,137 @@
 {
-  "users": []
+  "users": [
+    {
+      "id": 1,
+      "name": "Ajay .v",
+      "phone": "9876543210",
+      "email": "ajay@gmail.com",
+      "city": "Hyderabad"
+    },
+    {
+      "id": 2,
+      "name": "Ravi",
+      "phone": "9876543211",
+      "email": "ravi@gmail.com",
+      "city": "Chennai"
+    },
+    {
+      "id": 3,
+      "name": "Kiran",
+      "phone": "9876543212",
+      "email": "kiran@gmail.com",
+      "city": "Bangalore"
+    },
+    {
+      "id": 6,
+      "name": "Vijay",
+      "phone": "9876543215",
+      "email": "vijay@gmail.com",
+      "city": "Mumbai"
+    },
+    {
+      "id": 7,
+      "name": "Naveen",
+      "phone": "9876543216",
+      "email": "naveen@gmail.com",
+      "city": "Kochi"
+    },
+    {
+      "id": 8,
+      "name": "Rahul",
+      "phone": "9876543217",
+      "email": "rahul@gmail.com",
+      "city": "Jaipur"
+    },
+    {
+      "id": 9,
+      "name": "Arjun",
+      "phone": "9876543217",
+      "email": "rahul@gmail.com",
+      "city": "Jaipur"
+    },
+    {
+      "id": 10,
+      "name": "Manoj",
+      "phone": "9876543217",
+      "email": "rahul@gmail.com",
+      "city": "Jaipur"
+    },
+    {
+      "id": 11,
+      "name": "Ramesh",
+      "phone": "9876543217",
+      "email": "rahul@gmail.com",
+      "city": "Jaipur"
+    },
+    {
+      "id": 12,
+      "name": "Arjun",
+      "phone": "9876543218",
+      "email": "arjun@gmail.com",
+      "city": "Indore"
+    },
+    {
+      "id": 13,
+      "name": "Manoj",
+      "phone": "9876543219",
+      "email": "manoj@gmail.com",
+      "city": "Trichy"
+    },
+    {
+      "name": "VEERABHADRAPPAGARI AJAY RRMC",
+      "phone": "06303629099",
+      "email": "ajaynaveen337@gmail.com",
+      "city": "Bengaluru",
+      "id": 14
+    },
+    {
+      "id": 15,
+      "name": "Veera",
+      "phone": "06303629099",
+      "email": "naveen337@gmail.com",
+      "city": "naveen337@gmail.com"
+    },
+    {
+      "id": 16,
+      "name": "Vijay",
+      "phone": "9876543213",
+      "email": "vijay@gmail.com",
+      "city": "Mumbai"
+    },
+    {
+      "id": 17,
+      "name": "Naveen",
+      "phone": "9876543214",
+      "email": "naveen@gmail.com",
+      "city": "Kochi"
+    },
+    {
+      "id": 18,
+      "name": "Rahul",
+      "phone": "9876543215",
+      "email": "rahul@gmail.com",
+      "city": "Delhi"
+    },
+    {
+      "id": 19,
+      "name": "Sita",
+      "phone": "9876543216",
+      "email": "sita@gmail.com",
+      "city": "Pune"
+    },
+    {
+      "id": 20,
+      "name": "Aman",
+      "phone": "9876543217",
+      "email": "aman@gmail.com",
+      "city": "Noida"
+    },
+    {
+      "name": "ajayanveen",
+      "phone": "7892979838",
+      "email": "padma@gmail.com",
+      "city": "bangalore",
+      "id": 21
+    }
+  ]
 }
